@@ -1,0 +1,5 @@
+﻿  Huffmancoding.cpp
+c:\users\aditya\documents\visual studio 2015\projects\project3_2\project3_2\huffman.h(113): warning C4101: 'arr': unreferenced local variable
+c:\users\aditya\documents\visual studio 2015\projects\project3_2\project3_2\huffmancoding.cpp(12): warning C4101: 'arr': unreferenced local variable
+c:\users\aditya\documents\visual studio 2015\projects\project3_2\project3_2\huffmancoding.cpp(11): warning C4101: 'ch': unreferenced local variable
+  project3_2.vcxproj -> C:\Users\Aditya\documents\visual studio 2015\Projects\project3_2\Debug\project3_2.exe
